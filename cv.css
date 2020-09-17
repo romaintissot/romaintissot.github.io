@@ -1,0 +1,353 @@
+/* Définition des polices personnalisées */
+
+@font-face {
+    font-family: 'PRESSSTART2P';
+    src: url('polices/PRESSSTART2P.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* body */
+body {   
+    background-color: white;
+    font-family: 'PRESSSTART2P';
+    font-size: 0.7em;
+    margin : 10px;
+    height : 100%;
+}
+
+/* page */
+#bloc_page {  
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+
+/* Header */
+
+header {
+	background-color: pink;
+	display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 5px solid black;
+    border-top: 2px solid black;
+   	border-left: 2px solid black;
+   	border-right: 2px solid black;
+}
+
+header h1 {
+    font-size: 2.5em;
+    font-weight: normal;
+    margin: 5px 0 0 10px;
+}
+
+header h2 {
+    font-size: 1.1em;
+    margin-top: 0px;
+    font-weight: normal;
+    margin: 5px 0 5px 10px;
+}
+
+#titre_principal {
+    display: flex;
+    flex-direction: column;
+}
+
+/* header Navigation */
+
+header nav {
+    background-color: yellow;
+    display: flex;
+    justify-content: space-between;
+    justify-content: center; 
+	border-top: 2px solid black;
+   	border-left: 2px solid black;
+   	border-bottom: 2px solid black;
+   	float:left;
+}
+
+header nav ul {
+    list-style-type: none;
+    display: flex;
+}
+
+header nav li {
+    margin-right: 15px;
+
+}
+
+header nav a {
+    font-size: 1.3em;
+    color: #181818;
+    padding-bottom: 3px;
+    text-decoration: none;
+}
+
+header nav a:hover {
+    color: #760001;
+    border-bottom: 3px solid #760001;
+}
+
+
+
+article p {
+    color: darkgrey;
+    /*margin: auto; /* On peut donc demander à ce que le bloc soit centré avec auto */
+}
+
+article img {
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 60%;
+  	height: auto;
+  	text-align: right;
+}
+
+/*p:hover {
+    color : gray;
+    font-size: 19px;
+}*/
+
+.yolo {
+    color: indianred;
+}
+
+.yolo:active {
+    background-color: teal;
+}
+
+
+
+/*couleur de fond*/
+
+
+section {
+    background-color: green;
+    height: 425px;
+    overflow-x: hidden;
+
+}
+
+article {
+    background-color: purple;
+
+}
+
+
+article nav {
+    display: flex;
+    background-color: green; 
+    padding-bottom: 100px;
+    padding-top: 100px;
+	height: 200px;
+	justify-content: center;
+  	align-items: center;
+}
+
+article nav ul {
+    list-style-type: none;
+    display: flex;
+    padding-left: 0px;
+}
+
+article nav li {
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+
+article nav img:hover {
+    color: #760001;
+    box-shadow:  0 0 0 3px #760001;
+}
+
+/*pages hors menu */
+table {
+    overflow-x: hidden;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+table tr th{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+table tr td{
+
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+
+
+.line {
+    border-bottom: 1px solid gray;
+    width: 100%;
+}
+
+
+footer {
+	display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 10px;
+    border-top: 5px solid black;
+    margin-bottom: 10px;
+}
+
+footer div {
+	margin: 5px 0 5px 0 ;
+}
+
+
+/*logo linkedin*/
+.fa {
+  font-size: 50px;
+  width: 50px;
+  text-align: right;
+  text-decoration: none;
+}
+
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-github {
+  background: white;
+  color: black;
+}
+
+
+.fa-linkedin {
+  background: white;
+  color: blue;
+}
+
+.rendering {
+    border-width: 1px;
+    border-style: solid;
+    overflow: hidden;
+}
+
+
+@media all and (max-width: 1024px)
+{
+    #bloc_page
+    {
+        width: auto;
+    }
+}
+
+@media all and (max-width: 512px)
+{
+    header nav
+    {
+        width: auto;
+        text-align: left;
+    }
+    
+    header nav ul
+    {
+        flex-direction: column;
+    }
+
+    
+    header nav a
+    {
+        font-size: 1.1em;
+    }
+    
+    header nav a:hover
+    {
+        border-bottom: 0;
+    }
+}
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px)
+{
+    /*paramètres affichage mobile*/
+	body {
+		width: auto;
+		margin: 20px;
+		height: 984px;
+
+	}
+
+    #bloc_page {
+        width: auto;
+        height: auto;
+
+    }
+
+    section nav{
+    	height: 600px;
+    }
+
+    img {
+    	width: 100%;
+    }
+
+    footer {
+    	font-size: 80%;
+    	padding-bottom: 0px;
+    }
+
+    
+
+
+}
+
+@media all and (max-device-width: 480px)
+{
+    /*paramètres affichage mobile*/
+	body {
+		width: auto;
+		margin: 20px;
+		padding: 0px;
+	}
+
+    #bloc_page {
+        width: auto;
+        height: auto;
+    }
+
+    img {
+    	width: 100%;
+    }
+
+    footer {
+    	font-size: 80%;
+    }
+
+    
+
+
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: green /*#f1f1f1*/; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+}
