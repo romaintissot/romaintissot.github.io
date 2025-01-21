@@ -41,8 +41,9 @@ footer:
 social:
   - title: linkedin
     url: https://linkedin.com/in/romain-tissot
-  - title: google-plus
+  - title: google-scholar
     url: https://scholar.google.fr/citations?user=ivLaXtYAAAAJ&hl=fr
+    icon: /img/png-transparent-google-scholar-hd-logo-thumbnail.png
   - title: github
     url: http://github.com/romaintissot
 
