@@ -40,11 +40,9 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: LinkedIn
-    url: 
-  - title: Research Gate
-    url: 
+    url: www.linkedin.com/in/romain-tissot
   - title: Google scholar
-    url: 
+    url: https://scholar.google.fr/citations?user=ivLaXtYAAAAJ&hl=fr
   - title: github
     url: http://github.com/romaintissot
 
@@ -53,7 +51,7 @@ address:
   - line: Lyon
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: "Don't be shy, contact me for more information"  
 
 # Build settings
 markdown: kramdown
