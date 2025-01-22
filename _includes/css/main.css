@@ -386,6 +386,25 @@ footer .footer-below {
     line-height: 45px;
 }
 
+/* Style général pour les boutons avec des icônes SVG */
+.btn-social img {
+    max-width: 24px;
+    max-height: 24px;
+    transition: all 0.3s ease-in-out;
+}
+
+/* Style au survol pour le bouton Google Scholar */
+.btn-social:hover img {
+    filter: brightness(0) saturate(100%) invert(26%) sepia(85%) saturate(669%) hue-rotate(101deg) brightness(91%) contrast(91%);
+}
+
+/* Ajout d'un fond blanc et bordure verte comme les autres boutons */
+.btn-social:hover {
+    background-color: #fff;
+    border-color: #{{ site.color.primary }};
+}
+
+
 .btn:focus,
 .btn:active,
 .btn.active {
