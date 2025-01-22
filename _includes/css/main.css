@@ -395,7 +395,7 @@ footer .footer-below {
 
 /* Style au survol pour le bouton Google Scholar */
 .btn-social:hover img {
-    filter: brightness(0) saturate(100%) invert(26%) sepia(85%) saturate(669%) hue-rotate(101deg) brightness(91%) contrast(91%);
+    filter: invert(50%) sepia(100%) saturate(500%) hue-rotate(140deg) brightness(100%) contrast(90%);
 }
 
 /* Ajout d'un fond blanc et bordure verte comme les autres boutons */
