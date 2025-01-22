@@ -16,9 +16,15 @@
           <ul class="list-inline">
             {% for network in site.social %}
             <li>
-              <a href="{{ network.url }}" class="btn-social btn-outline"><i
-                  class="fa-brands fa-bounce fa-{{ network.title }}">
-                  </i></a>
+              {% if network.title == "google-scholar" %}
+                <a href="{{ network.url }}" class="btn-social btn-outline">
+                  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/google-scholar.svg" alt="Google Scholar" style="width: 24px; height: 24px;">
+                </a>
+              {% else %}
+                <a href="{{ network.url }}" class="btn-social btn-outline">
+                  <i class="fa-brands fa-fw fa-{{ network.title }}"></i>
+                </a>
+              {% endif %}
               </li>
             {% endfor %}
           </ul>
