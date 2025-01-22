@@ -43,7 +43,6 @@ social:
     url: https://linkedin.com/in/romain-tissot
   - title: google-scholar
     url: https://scholar.google.fr/citations?user=ivLaXtYAAAAJ&hl=fr
-    icon: /img/google-scholar.svg
   - title: github
     url: http://github.com/romaintissot
 
