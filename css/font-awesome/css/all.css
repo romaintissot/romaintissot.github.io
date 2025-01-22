@@ -6912,6 +6912,9 @@ readers do not read off random characters that represent icons */
 .fa-google-drive:before {
   content: "\f3aa"; }
 
+.fa-google-scholar:before {
+  content: "\e63b"; }
+
 .fa-google-pay:before {
   content: "\e079"; }
 
