@@ -401,6 +401,7 @@ footer .footer-below {
 /* Ajout d'un fond blanc et bordure verte comme les autres boutons */
 .btn-social:hover {
     background-color: #fff;
+    border-color: #18bc9c;
     border-color: #{{ site.color.primary }};
 }
 
