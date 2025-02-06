@@ -1,0 +1,24 @@
+---
+layout: default
+modal-id: 2
+date: 2021-06-15
+title: Software engineering
+img1: smile.png
+img2: smile.png
+alt: image-alt
+project-date: February 2021 - June 2021
+client: Smile
+category: web and software development
+description: '<h1>Smile, Lyon</h1>
+    <p><strong>February 2021 - June 2021 ( 5 months)</strong></p>
+    <h2>Back home, back to coding</h2>
+    <p style="text-align: justify;"> A few months back, while in my hometown, I had the opportunity to join Smile as part of their software engineering team, specializing in TMA (Third-Party Application Maintenance) using Java. Each project followed AGILE principles, ensuring a dynamic and collaborative workflow with a strong client focus.</p>
+
+    <p style="text-align: justify;"> What made this experience particularly unique was the context: the world was navigating the challenges of a global pandemic. During those first months, I adapted to a hybrid work environment, splitting my time between home and periods of confinement. Despite the circumstances, I embraced the chance to learn how to collaborate within a development team dedicated to open-source solutions.</p>
+
+    <p style="text-align: justify;"> Remote work encouraged me to adopt and refine coworking methods rooted in AGILE practices, ensuring smooth coordination and communication with the team. On the technical side, I gained hands-on experience with Jenkins and CI/CD pipelines, which deepened my understanding of continuous integration and delivery processes essential for modern development.</p>
+	<ul style="text-align: justify;">
+      <li>JAVA</li>
+      <li>Git</li>
+    </ul>'
+---

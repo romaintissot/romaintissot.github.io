@@ -1,0 +1,23 @@
+---
+layout: default
+modal-id: 5
+date: 2017-06-01
+title: Graduation internship on geolocation embedded systems
+img1: thales.png
+img2: thales.png
+alt: image-alt
+project-date: June 2017 - Dec 2017
+client: Thales
+category: Embedded software engineer
+description: '<h1>Thales, Gennevilliers</h1>
+    <p style="text-align: justify;"><strong>June 2017 – December 2017 (7 months)</strong></p>
+
+    <h2>Final year before graduation, Romain in Paris</h2>
+
+
+    <p style="text-align: justify;">As part of my final year internship at Thales, I took on the challenge of porting a human-machine interface (HMI) to the Android system. This project aimed to push the boundaries of mobile technology by integrating real-time geolocation features into the application. My primary responsibility was to develop an Android application that leveraged collaborative geolocation, combining data from both internal smartphone sensors (such as GPS, accelerometers, and gyroscopes) and external sensors for enhanced accuracy.</p>
+
+    <p style="text-align: justify;">This experience gave me deep insights into embedded Android development and real-time geolocation technologies, while also teaching me how to manage complex sensor integration and ensure reliable data synchronization. Working on this project sharpened my problem-solving skills, as I had to overcome technical challenges related to sensor fusion and performance optimization in a mobile environment.</p>
+
+    <p style="text-align: justify;">Beyond the technical aspects, it was an opportunity to collaborate with experts at Thales, adopt industry best practices, and contribute to a cutting-edge project with potential real-world applications in security, navigation, and collaborative systems.</p>'
+---

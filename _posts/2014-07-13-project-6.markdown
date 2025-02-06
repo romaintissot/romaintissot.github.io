@@ -1,0 +1,62 @@
+---
+layout: default
+modal-id: 6
+date: 2016-09-01
+title: MSc in Robotics and Embedded systems
+img1: salford.png
+img2: salford.png
+alt: image-alt
+project-date: September 2016 - May 2017
+client: Salford University
+category: Robotics engineer
+description: "<h1>Salford University, Great Manchester area</h1>
+    <p style='text-align: justify;'><strong>September 2016 – May 2017 (9 months)</strong></p>
+
+    <h2><i class='fa-solid fa-compact-disc'></i>Some might say in Manchester <i class='fa-solid fa-guitar'></i></h2>
+
+    <p style='text-align: justify;'>Let the magic begin! My first year abroad was an adventure I couldn’t possibly pass up. Spending an entire academic year in another country was already exciting, but doing it in Manchester—an iconic city for a rock and Brit-pop fan like me—made it all the more special.</p>
+
+    <p style='text-align: justify;'>Beyond the cultural thrill, the MSc program at Salford University perfectly aligned with my aspirations. It offered the chance to dive into the world of robotics, a field that had always intrigued me and matched my desire to combine technology and innovation. But no spoilers... you’ll see how this passion took shape later!</p>
+
+    <p style='text-align: justify;'>For now, here’s what I was up to during the first part of the year:</p>
+
+
+    <h2>First, Embedded systems and RTOS</h2>
+    <p style='text-align: justify;'> In this first part of the year, I was responsible for designing and implementing a real-time tracking system that relied on infrared sensors and a thermal camera to track moving objects with precision and speed. The challenge lay in ensuring the system's responsiveness while maintaining accuracy and stability.</p>
+
+    <p style='text-align: justify;'> The first step was data acquisition through multiple sensors, which provided the necessary input for tracking and object detection. I then configured the servo motor control, ensuring smooth and accurate movements of the tracking system. The project also required setting up bidirectional communication with a server station, allowing for real-time monitoring and remote control of the robot’s behavior.</p>
+
+    <p style='text-align: justify;'> To meet the performance and responsiveness requirements, I integrated a real-time operating system (RTOS) that guaranteed immediate reactions to incoming data. A graphical interface was also developed to provide a control panel for easy system management and visualization of real-time operations.</p>
+
+    <p style='text-align: justify;'> To further optimize tracking performance, I implemented sensor fusion, combining data from different sources to improve accuracy and reliability. Finally, I validated the system’s performance through statistical tests, ensuring that the tracking met the necessary standards for precision and robustness.</p>
+
+    <p style='text-align: justify;'> This experience provided invaluable insights into embedded systems, real-time processing, and sensor integration, reinforcing my ability to design and manage complex, high-performance systems.</p>
+
+    <h2>..., Then some mechatronics</h2>
+    <p style='text-align: justify;'>Another key project involved the development of a mobile robot, where I combined my expertise in electronics, mechanics, and artificial intelligence to create a fully functional, autonomous robotic platform. The goal was to integrate all aspects of mechatronics into a cohesive system capable of performing multiple mobility behaviors.</p>
+
+    <p style='text-align: justify;'>I began with the complete design of the robot’s control unit using Altium Designer, ensuring the electronic system’s reliability and performance. The mechanical structure of the robot was modeled in CATIA, where I designed a robust 3-wheel platform for optimal stability and movement.</p>
+
+    <p style='text-align: justify;'>On the software side, I programmed a Task Logic Unit (TLU) to manage and coordinate the robot’s three core mobility behaviors. The control station was developed in Java, while the robot’s onboard microcontroller (AVR board) was programmed in C, ensuring efficient communication between hardware and software components.</p>
+
+    <p style='text-align: justify;'>This project was a perfect example of cross-disciplinary collaboration, where electronics, mechanical design, and embedded programming came together to build an intelligent and adaptable robotic solution. It significantly enhanced my skills in system integration and robotic behavior coordination.</p>
+
+
+    <h2>Finally, my Master's thesis</h2>
+     <p style='text-align: justify;'>For my thesis project, I had the opportunity to collaborate with my friend and classmate Jean-Renel Suresse to implement an innovative iDorm interface controlled by a virtual avatar. This project was part of a larger context of assistance to individuals, particularly aimed at enhancing smart home environments for those with specific needs. The project will align with the broader theme of my PhD research, which also focuses on assistive technologies—but more on that later.</p>
+
+     <p style='text-align: justify;'>The goal of the project was to develop a system that combined Java programming and Arduino-based hardware to create an interactive, smart environment where a 3D avatar, equipped with artificial intelligence, could control appliances in response to voice commands, gestures, and real-time environmental data. On the Java side, I worked on creating an AI interface for the 3D avatar head, enabling it to respond naturally to user interactions. Using voice recognition and skeletal tracking via Kinect, the avatar could detect commands and gestures, making the system highly intuitive. I also implemented decision-making capabilities that allowed the avatar to trigger speech responses, activate actuators, and establish bidirectional communication over the network between PCs. Additionally, I developed a wireless interface to enable users to control various appliances such as the fridge, microwave, and lamp via Wi-Fi.</p>
+
+     <p style='text-align: justify;'>On the Arduino side, I was responsible for programming the Arduino network interface, connecting sensors and modules that collected real-time data. To ensure smooth communication between hardware components, I designed a bridge board to interface with the Arduino modules. I also created mechanical housings to protect and organize the Arduino units, which were installed on appliances such as the door, TV, microwave, kettle, and tap. This allowed for the wireless control of appliances, contributing to the overall goal of creating a seamless and smart home environment.</p>
+
+     <p style='text-align: justify;'>This project was a fantastic opportunity to work on assistive technologies, blending embedded systems, AI, and IoT. It not only helped me develop practical skills in system integration but also solidified my interest in creating smart environments that can truly enhance people's lives, particularly in the context of assistive care.</p>
+
+
+    <p style='text-align: justify;'> </p>
+
+
+    <p style='text-align: justify;'>In a nutshell, I was fortunate to have the opportunity to immerse myself in advanced robotics courses, where I explored the foundations of automation and intelligent systems. I also participated in hands-on projects, where I was able to apply my theoretical knowledge to solve real-world problems. Working alongside a diverse group of students from various backgrounds helped me broaden my perspective on global engineering practices, while the city’s rich culture and vibrant music scene inspired me in ways that went beyond the classroom.</p>
+
+    <p style='text-align: justify;'> This experience was a perfect blend of academic challenges and personal discovery. It gave me not only the technical foundations I needed but also the confidence and adaptability that come with living and learning in a new country.</p>
+"
+---

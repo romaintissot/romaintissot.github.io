@@ -1,0 +1,26 @@
+---
+layout: default
+modal-id: 3
+date: 2018-03-18
+title: Software engineering
+img1: sopra.png
+img2: sopra.png
+alt: image-alt
+project-date: March 2018 - June 2020 
+client: Sopra HR Software
+category: Software Development
+description: '<h1>Sopra HR Software, Paris</h1>
+    <p style="text-align: justify;"><strong>March 2018 – June 2020 (2 years, 4 months)</strong></p>
+
+    <h2>My first job</h2>
+
+    <p style="text-align: justify;">Freshly graduated and excited to start my career, I initially focused my job search on robotics, following my MSc in Manchester. After going through several recruitment processes and reflecting on my options, I decided to broaden my horizons. Given my experience in software development through various side projects during my engineering studies, it felt natural to explore opportunities in this field. It wasn’t long before I secured my first role at Sopra HR Software, a branch of the renowned French company Sopra Steria.</p>
+
+    <p style="text-align: justify;">As a Software Development Consultant, I worked at the crossroads of two major public institutions—the Ministry of Ecology and the Ministry of the Interior—contributing to the development, maintenance, and optimization of critical HR software solutions. My role required a combination of problem-solving and technical expertise to meet the evolving needs of these large-scale public projects.</p>
+
+    <p style="text-align: justify;">One of my main tasks was to ensure smooth operations by resolving software bugs using Mantis, a critical step in maintaining the reliability of the system. I also focused on writing and optimizing SQL queries, procedures, and views in Oracle, ensuring efficient data management and seamless integration across the platform. Data processing and transformation were another significant aspect of my work, which led me to develop and manage Talend ETL jobs for robust data integration pipelines.</p>
+
+    <p style="text-align: justify;">To enhance reporting and business intelligence capabilities, I contributed to creating and improving SAP BusinessObjects (BO) universes, providing users with more powerful analytical tools. On the infrastructure side, I developed and maintained Shell scripts on UNIX systems, automating processes and improving operational efficiency. Finally, I had the chance to develop external tools in Java, extending the system’s functionality and addressing specific client needs.</p>
+
+    <p style="text-align: justify;">This experience was a valuable stepping stone in my career. It helped me sharpen my technical skills, adapt to complex environments, and understand how to deliver impactful solutions within the constraints and high standards of the public sector.</p>'
+---

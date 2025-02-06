@@ -1,0 +1,41 @@
+---
+layout: default
+modal-id: 1
+date: 2024-12-13
+title: PhD - AI and robotics
+img1: inria.png
+img2: marionet_exCDPR.jpg
+alt: PhD
+project-date: September 2021 - December 2024
+client: Inria
+category: PhD
+description: "<h1>INRIA, Antibes</h1>
+    <p><strong>September 2021 - December 2024 (3 years 3 months)</strong></p>
+    <h2>Finally, robots again!</h2>
+    <p style='text-align: justify;'>There I was, in Lyon, starting a new job at Smile. Yet, it didn’t feel entirely new—many of the challenges I encountered were strikingly similar to those I had faced back in Paris. Then, one day, an unexpected opportunity landed in my inbox: a PhD position in assistive robotics, focusing on a specific type of robot.</p>
+
+	<p style='text-align: justify;'>I hesitated at first. But the idea kept growing on me—the chance to return to my roots, to apply the skills and knowledge I had gained during my studies to something tangible, something with real societal impact. It became clear: I had to take the leap.</p>
+
+	<p style='text-align: justify;'>And so, once again, I packed my bags. This time, my destination was the sun-drenched, glamorous Côte d'Azur.</p>
+
+	<p style='text-align: justify;'>Three years and a few months later, I stand here proudly with a PhD in robotics and artificial intelligence. Here’s the abstract of my work:</p>
+
+	<p style='text-align: justify;'> <i>Cable-driven parallel robots (CDPR) of which you can see an example up there, represent a new class of parallel robots. These robots use wound cables for their legs instead of the rigid link chains used in traditional parallel robots. This technology is cable-dependent and therefore subject to the unilateral forces exerted by the cables on the platform, the cables’ elasticity, and sagging due to their own weight.<br> Initially, we present the modeling of this type of robot, particularly focusing on the behavior of so-called Irvine cables, as this offers a more realistic approach compared to other models. Next, we address the use of neural networks (NN) for solving the direct kinametic model (DK), after having previously presented the performance of other solving methods for comparison. NNs exhibit interesting qualities for problem-solving in various fields ; however, they will need to be significantly adapted to the DK problem, starting with the ability to determine multiple exact solutions while minimizing computation time, which is a critical challenge in this context. Finally, we will address the problem of calibrating the Young’s modulus E of the cable materials, with the goal of identifying the elasticity of each cable based on measurements taken from the CDPR. The calibration aims to meet a crucial safety need in the context of mobility assistance for vulnerable individuals and can be used for maintenance and performance improvement. We demonstrate the feasibility of such calibration through simulation, using two methods: gradient descent and the use of NNs, while also highlighting their current limitations. These limitations indicate that further research and development are necessary to refine these methods for practical use, especially in real-world applications where accuracy and speed are of paramount importance.</i><p>
+
+	<p style='text-align: justify;'>During this amazing yet incredibly intense period, I also had the privilege to teach several subjects as part of my contract with the university and the neighboring engineering school. It was a rewarding experience that allowed me to pass on knowledge while sharpening my own skills in pedagogy and communication.</p>
+
+	<p style='text-align: justify;'>Beyond teaching, I took an active role in fostering collaboration and knowledge exchange among my fellow PhD students. I organized monthly and weekly seminars where we could meet, present our research, and learn from one another—creating a fertile ground for new ideas and potential collaborations. I also contributed to the organization of a larger event called MOMI (Le MOnde des Mathématiques Industriels), which brought together researchers, students, and industry professionals to bridge the gap between academic research and industrial applications.</p>
+
+	<p style='text-align: justify;'>Additionally, I participated in several events organized by the INRIA Start-up Studio, aimed at encouraging PhD students to explore entrepreneurial projects based on their research and skills. These experiences sparked ideas for potential future ventures and opened my mind to new possibilities. While I’m certainly intrigued by the idea of launching my own project, I remain curious and eager to explore the opportunities that may present themselves first.</p>
+
+	<ul style='text-align: justify;'>
+      <li>C/C++</li>
+      <li>Python</li>
+      <li>Maple</li>
+      <li>LaTex</li>
+      <li>Emacs</li>
+      <li>GitLab</li>
+    </ul>
+
+"
+---

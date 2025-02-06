@@ -1,0 +1,39 @@
+---
+layout: default
+modal-id: 4
+date: 2020-06-27
+title: Bikes, agriculture and testimonies
+img1: velo.png
+img2: ../agromicro/titre.png
+alt: image-alt
+project-date: June 2020 - August 2020
+client: Thomas & Romain
+category: Cycle and Podcast
+description: '
+
+    <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/977158405&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/agromicro" title="Agro Micro" target="_blank" style="color: #cccccc; text-decoration: none;">Agro Micro</a> · <a href="https://soundcloud.com/agromicro/la-ferme-des-mawagits" title="La Ferme des Mawagits // Ferme Maraîchère" target="_blank" style="color: #cccccc; text-decoration: none;">La Ferme des Mawagits // Ferme Maraîchère</a></div>
+
+    <h1>Agro Micro</h1>
+    <h2>A series of testimonials from farmers</h2>
+    <p style="text-align: justify;"><strong>Created by Romain Tissot and Thomas Liberge</strong></p>
+
+    <p style="text-align: justify;">In June 2020, we left Lyon to reach Nantes by bike, meeting farmers engaged in agroecological transition along the way. The goal of this journey, powered solely by our legs, was to amplify the voices of small-scale farming and provide a broad perspective at a time when ecological transition is finally gaining attention.</p>
+
+    <p style="text-align: justify;">We traveled a 1,300 km "U"-shaped route across the southern half of France to gather the voices featured in this series. Along the way, we met various producers (fruits, vegetables…), a livestock farmer, and a nurseryman.</p>
+
+    <p style="text-align: justify;">At each stop, these farmers allowed us to work with them for a few days, giving us insight into the origins of their ideas and the reality of their daily lives.</p>
+
+    <h2>An immersive podcast</h2>
+    <p style="text-align: justify;">To document and share our experience, we created a podcast in a relaxed and unpretentious format. In these recordings, you will not hear our voices or questions. This deliberate choice maintains a poetic touch by preserving only the voices of our interviewees.</p>
+
+    <h2>A journey aligned with our values</h2>
+    <p style="text-align: justify;">Beyond our passion for cycling, choosing this mode of transport was essential to remain consistent with the underlying theme of our series: ecology. Aside from the environmental impact of other human activities, conventional agriculture poses a direct threat to the climate and biodiversity. In turn, climate change and the sixth mass extinction directly endanger our food supply, a fundamental human need.</p>
+
+    <p style="text-align: justify;">Through Agro Micro, we aim to give a voice to those shaping a more sustainable and resilient agriculture.</p>
+
+    <div style="margin-left: -100px;">
+      <img src="../img/portfolio/voyagevelo.png" alt="Voyage à vélo" />
+    </div>
+
+    '
+---
